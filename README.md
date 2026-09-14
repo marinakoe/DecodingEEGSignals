@@ -16,4 +16,7 @@ The analysis is extended to compare decoding performance between **posterior and
 
 The decoding analysis is repeated **without pseudo-averaging**. Results are compared with those from Part 1 to examine how pseudo-averaging influences decoding performance and the resulting interpretation.
 
-The repository includes the MATLAB scripts used for preprocessing, classification, decoding performance analysis, and visualization.
+The repository includes the MATLAB scripts used for preprocessing, classification, decoding performance analysis, and visualization. as well as the data from the Things dataset (publicly available).
+
+### How to run:
+On MATLAB, import the data into the same folder as the scripts. Run the scripts in their order.
